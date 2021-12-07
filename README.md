@@ -1,2 +1,23 @@
-# MadawaPerera
-My personal repository 
+
+
+
+### Hi there 
+
+<!--
+**octocat/octocat** is a ⭐ _special_ ⭐ repository because its 'README.md' (this file) appears on your GitHub profile.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
